@@ -1,0 +1,196 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "designed house",
+        "price": 5550.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-6.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "beach resort",
+        "price": 8432.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-10.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "modern house",
+        "price": 4872.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-11.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "forest house",
+        "price": 5358.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-12.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "glassy house",
+        "price": 3388.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-13.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "luxerius house",
+        "price": 4232.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-14.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "design house",
+        "price": 3445.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-15.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "modern house",
+        "price": 3353.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-16.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "glass house",
+        "price": 3595.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-17.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "vintage house",
+        "price": 5533.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-18.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "modern design house",
+        "price": 7833.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-7.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "custom house",
+        "price": 6933.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-8.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
